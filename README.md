@@ -3,7 +3,7 @@
 **my first project with HTML ,CSS**
 
 
-![view final](<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/51dfee37-8cb7-4ef7-ab7b-a83ed8d7eaae" />)
+![view final](https://www.awesomescreenshot.com/image/57557585?key=2ef2db893304b2d3cd6989c86e0ac092)
 
 - [Demo Project](https://roya-nasiri.github.io/First/)
 
